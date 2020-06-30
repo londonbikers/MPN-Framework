@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPN.Framework", "MPN.Framework.csproj", "{5E4D1B9D-6A7E-445D-B3E9-6B536F1DC6BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4D1B9D-6A7E-445D-B3E9-6B536F1DC6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4D1B9D-6A7E-445D-B3E9-6B536F1DC6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4D1B9D-6A7E-445D-B3E9-6B536F1DC6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4D1B9D-6A7E-445D-B3E9-6B536F1DC6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = 
+		SolutionGuid = {559327D9-F519-491C-A7EB-0EF21FF46F5A}
+	EndGlobalSection
+EndGlobal
